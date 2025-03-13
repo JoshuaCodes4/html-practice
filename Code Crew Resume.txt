@@ -1,0 +1,36 @@
+
+Joshua Swannigan
+Phone: (901) 409-5036 | Email: Fazzbrazz@gmail.com | GitHub: github.com/Joshuacodes4
+
+Objective
+Aspiring game developer seeking to build practical coding skills and gain hands-on experience through the Memphis Code Crew. Proficient in C#, JavaScript, C++, HTML, and Node.js. Eager to contribute to interactive game development and work collaboratively with fellow developers to grow my skill set.
+
+Skills
+
+Programming Languages: C#, JavaScript, C++, HTML
+Frameworks: Node.js
+Version Control: Git, GitHub
+Tools: Microsoft Visual Studio Code
+Problem-Solving: Strong analytical thinking and debugging skills
+Collaboration: Experience working on team projects and coding challenges
+Projects
+
+Spring Camp Program Website
+Developer | Microsoft Visual Studio Code
+
+Developed multiple websites for a spring camp program using HTML, CSS, and JavaScript.
+Focused on ensuring the websites were interactive and optimized for mobile devices.
+Collaborated with a team to finalize designs and integrate functionality.
+Game Development Prototype (Personal Project)
+Developer | Microsoft Visual Studio Code
+
+Created a basic 2D game prototype using C# and Unity.
+Focused on building player mechanics, scoring systems, and collision detection.
+Experimented with simple AI to enhance the gameplay experience.
+Education
+
+Memphis Code Crew
+Multiple Programs | Ongoing
+
+Participated in coding workshops focusing on programming languages, frameworks, and game development principles.
+Gained hands-on experience in C#, JavaScript, and Node.js, with a focus on coding best practices and collaboration.
