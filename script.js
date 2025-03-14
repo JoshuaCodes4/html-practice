@@ -1,6 +1,7 @@
 
 let cheese = "https://th.bing.com/th/id/OIP.j3bvaglGwvu2Tb8zZ7ZHFQHaE8?w=301&h=201&c=7&r=0&o=5&dpr=1.3&pid=1.7"
 let pineapple ="https://th.bing.com/th/id/OIP.vgAte9cnkjNdVQd-NqcFpwHaEK?w=272&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+let veggie="https://th.bing.com/th/id/OIP.J7iJbByNLuafdYZeQiaPfwHaLG?w=204&h=306&c=7&r=0&o=5&dpr=1.3&pid=1.7"
 let pizzas = [cheese, pineapple, veggie]; 
 
 
